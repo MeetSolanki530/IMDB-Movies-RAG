@@ -20,3 +20,5 @@ It allows users to query movie information through a Streamlit-based interface p
 * **Qwen3** – LLM for answer generation based on retrieved context
 
 ---
+
+### Streamlit App Link :- https://imdb-movies-rag.streamlit.app/
