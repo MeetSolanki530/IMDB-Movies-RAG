@@ -61,7 +61,7 @@ rag_chain = load_rag_chain()
 
 st.set_page_config(page_title="IMDB RAG QA", page_icon="🎬", layout="centered")
 
-st.title("🎬 IMDB Movie Q&A (RAG + Ollama)")
+st.title("🎬 IMDB Movie Q&A")
 st.write("Ask questions about movies based on your IMDB CSV + FAISS index.")
 
 default_question = "Recommend top 5 sci-fi movies with high ratings"
