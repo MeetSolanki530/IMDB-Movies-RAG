@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-community
+faiss-cpu
+langchain-nvidia-ai-endpoints
+python-dotenv

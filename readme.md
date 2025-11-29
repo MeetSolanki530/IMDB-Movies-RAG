@@ -7,7 +7,7 @@ It allows users to query movie information through a Streamlit-based interface p
 
 ## ⚙️ Tech Stack
 
-* **Ollama** – Local LLM runtime
+* **Nvidia NIM** – LLM runtime
 * **LangChain** – RAG orchestration (retriever, chains, embeddings)
 * **FAISS** – Vector store for fast similarity search
 * **Streamlit** – Web UI for user interaction
